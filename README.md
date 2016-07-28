@@ -1,3 +1,11 @@
-The OpenShift `jbossews` cartridge documentation can be found at:
+SpringMVC
 
-http://openshift.github.io/documentation/oo_cartridge_guide.html#tomcat
+Tecnologias utilizadas: -Java1.8 
+-Hibernate 
+-Spring MVC 
+-Bancos de Dados em Memória HSQLDB 
+-JSP 
+-jQuery 
+-Bootstrap 
+-JavaScript 
+-CSS -dbUnit -jUnit
