@@ -1,0 +1,35 @@
+@CHARSET "ISO-8859-1";
+
+.head-grid{
+	text-weight: bold; 
+	font-size: 15px; 
+	text-align: center;
+	background-color: #808080;
+	color:#EEEEEE;
+}
+
+.bs{
+    margin: 20px;
+}
+
+.line-grid{
+	text-weight: bold; 
+	font-size: 12px; 
+	text-align: center;
+}
+
+.hinput{
+  	height:25px;
+  	color:#0076A3
+  }
+  
+  .footer-grid{
+	  font-size: 15px; 
+	  text-align: right; 
+	  font-weight:bold;
+  }
+  
+  {}
+
+ 
+  

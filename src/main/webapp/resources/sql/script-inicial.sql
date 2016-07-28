@@ -1,0 +1,4 @@
+INSERT INTO `fm`.`despesa` (`id`, `dataAgendamento`, `dataPagamento`, `dataVencimento`, `descricaoD`, `status`, `tipo`, `valor`) VALUES (NULL, NULL, NULL, NULL, 'Luz', 'EM_ABERTO', 'FIXA', '150.00');
+INSERT INTO `fm`.`despesa` (`id`, `dataAgendamento`, `dataPagamento`, `dataVencimento`, `descricaoD`, `status`, `tipo`, `valor`) VALUES (NULL, NULL, NULL, NULL, 'Água', 'EM_ABERTO', 'FIXA', '60.00');
+INSERT INTO `fm`.`despesa` (`id`, `dataAgendamento`, `dataPagamento`, `dataVencimento`, `descricaoD`, `status`, `tipo`, `valor`) VALUES (NULL, NULL, NULL, NULL, 'NET', 'EM_ABERTO', 'FIXA', '270.00');
+INSERT INTO `fm`.`despesa` (`id`, `dataAgendamento`, `dataPagamento`, `dataVencimento`, `descricaoD`, `status`, `tipo`, `valor`) VALUES (NULL, NULL, NULL, NULL, 'IPTU', 'EM_ABERTO', 'FIXA', '280.00');
